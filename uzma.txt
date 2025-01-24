@@ -1,1 +1,2 @@
 this is the file made at 3.45pm on friday 2025.
+Now i am adding the second line at 3.59pm .i am checking that if i can push this file to check the commits and I will learn how to revert the changes that was happen unintentionally , sorry for the wrong spelling.
